@@ -13,7 +13,7 @@ The equation was popularized in a 1976 paper by the biologist Robert May,
 in part as a discrete-time demographic model analogous to the logistic equation first 
 created by Pierre François Verhulst. Mathematically, the logistic map is written as
 
-{\displaystyle x_{n+1}=ax_{n}\left(1-x_{n}\right)}{\displaystyle x_{n+1}=ax_{n}\left(1-x_{n}\right)}
+x<sub>n+1</sub>=ax<sub>n</sub>(1-x<sub>n</sub>),
 
 where x<sub>n</sub> is a number between zero and one that represents the ratio of existing 
 population to the maximum possible population. The values of interest for the parameter a 
